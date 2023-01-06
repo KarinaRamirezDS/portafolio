@@ -21,9 +21,9 @@ const Proyectos = () => {
     },
     {
       id: 3,
-      src: ecommerce,
-      demo: 'https://priceless-jepsen-a592c4.netlify.app/#/login',
-      codigo: 'https://github.com/KarinaRamirezDS/ecommerce-node-api'
+      src: memorama,
+      demo: 'https://memorama-ds.netlify.app/',
+      codigo: 'https://github.com/KarinaRamirezDS/Memorama'
     },
     {
       id: 4,
