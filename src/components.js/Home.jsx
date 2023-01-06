@@ -1,5 +1,5 @@
 import React from 'react';
-import Foto from '../assets/karina.png';
+import Foto from '../assets/dulce.png';
 import { BsArrowRightCircle } from 'react-icons/bs';
 import { Link } from 'react-scroll';
 
@@ -24,8 +24,7 @@ const Home = () => {
           <p className="text-gray-400 py-4 max-w-md">
             Hola mi nombre es Karina Ramírez, soy una persona muy alegre
             interesada en el desarrollo Web actualmente he egresado de Academlo,
-            me agrada más el área de Front-End. Mis pasatiempos favoritos es ver
-            series, y salir a pasear con mis mascotas por cierto me encantan los
+            me agrada más el área de Front-End. Mis pasatiempos favoritos es escuchar audiolibros, preacticar código, y salir a pasear con mis mascotas por cierto me encantan los
             animales también me gusta mucho la naturaleza.
             <br></br>
             Espero te guste mi portafolio, gracias por consultarlo.
