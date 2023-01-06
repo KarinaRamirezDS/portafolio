@@ -1,10 +1,10 @@
 import React from 'react';
 import torresDeHanoi from '../assets/portfolio/TorresDeHanoi.png';
 import romanos from '../assets/portfolio/romanos.png';
-import ecommerce from '../assets/portfolio/ecommerce.png';
 import usersCrud from '../assets/portfolio/weather.png';
 import pokemon from '../assets/portfolio/Pokemon.png';
 import ricky from '../assets/portfolio/rickyandmorty.png';
+import memorama from '../assets/portfolio/memoramas.PNG'
 const Proyectos = () => {
   const portfolios = [
     {
@@ -21,9 +21,9 @@ const Proyectos = () => {
     },
     {
       id: 3,
-      src: ecommerce,
-      demo: 'https://priceless-jepsen-a592c4.netlify.app/#/login',
-      codigo: 'https://github.com/KarinaRamirezDS/ecommerce-node-api'
+      src: memorama,
+      demo: 'https://portafoliokarinars.netlify.app/',
+      codigo: 'https://github.com/KarinaRamirezDS/Memorama'
     },
     {
       id: 4,
