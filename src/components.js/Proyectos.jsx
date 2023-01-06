@@ -5,6 +5,7 @@ import ecommerce from '../assets/portfolio/ecommerce.png';
 import usersCrud from '../assets/portfolio/weather.png';
 import pokemon from '../assets/portfolio/Pokemon.png';
 import ricky from '../assets/portfolio/rickyandmorty.png';
+import memorama from '../assets/portfolio/memoramas.PNG';
 const Proyectos = () => {
   const portfolios = [
     {
