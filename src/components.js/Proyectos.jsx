@@ -4,7 +4,7 @@ import romanos from '../assets/portfolio/romanos.png';
 import usersCrud from '../assets/portfolio/weather.png';
 import pokemon from '../assets/portfolio/Pokemon.png';
 import ricky from '../assets/portfolio/rickyandmorty.png';
-import memorama from '../assets/portfolio/memoramas.PNG'
+import memorama from '../assets/portfolio/memoramas.PNG';
 const Proyectos = () => {
   const portfolios = [
     {
@@ -22,7 +22,7 @@ const Proyectos = () => {
     {
       id: 3,
       src: memorama,
-      demo: 'https://portafoliokarinars.netlify.app/',
+      demo: 'https://memorama-ds.netlify.app/',
       codigo: 'https://github.com/KarinaRamirezDS/Memorama'
     },
     {
